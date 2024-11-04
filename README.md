@@ -26,8 +26,8 @@ practicing Java on any device.
 **Accessing Replit:**
 
 - Visit [Replit](https://replit.com/) and create a free account.
-- Select Java as the language and open a new project to start coding.
-- Getting Started with Java Syntax
+- Click create a new Repl.
+- Under "Choose a template" select Java and click "Create Repl."
 
 Java code is structured within classes and methods. Here’s a minimal Java program:
 
