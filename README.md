@@ -192,25 +192,27 @@ public class MovieTicketPricing {
         // Step 3: Initialize the ticket price variable
         int ticketPrice;
 
-        // Step 4: Determine ticket price based on age using if-else statements
-        if (age >= 0 && age <= 12) {
-            ticketPrice = 5;  // Child price
-            System.out.println("Child Ticket: $5");
-        } else if (age >= 13 && age <= 17) {
-            ticketPrice = 8;  // Teen price
-            System.out.println("Teen Ticket: $8");
-        } else if (age >= 18 && age <= 64) {
-            ticketPrice = 12;  // Adult price
-            System.out.println("Adult Ticket: $12");
-        } else if (age >= 65) {
-            ticketPrice = 7;  // Senior price
-            System.out.println("Senior Ticket: $7");
-        } else {
+        // Step 4: First check if age is invalid (negative)
+        if (age < 0) {
             System.out.println("Invalid age entered. Please enter a positive age.");
             return;  // Exit the program if the age is invalid
         }
+        // Step 5: Determine ticket price based on age using if-else statements
+        if (age <= 12) {
+            ticketPrice = 5;  // Child price
+            System.out.println("Child Ticket: $5");
+        } else if (age <= 17) {
+            ticketPrice = 8;  // Teen price
+            System.out.println("Teen Ticket: $8");
+        } else if (age <= 64) {
+            ticketPrice = 12;  // Adult price
+            System.out.println("Adult Ticket: $12");
+        } else {
+            ticketPrice = 7;  // Senior price (age >= 65)
+            System.out.println("Senior Ticket: $7");
+        }
 
-        // Step 5: Display the final price
+        // Step 6: Display the final price
         System.out.println("Your ticket price is: $" + ticketPrice);
 
         // Close the scanner to free up resources
