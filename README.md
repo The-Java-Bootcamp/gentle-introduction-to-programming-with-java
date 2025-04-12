@@ -10,11 +10,10 @@
 
 ### Stay Connected and Keep Learning!
 - 📱 Join our [WhatsApp group](https://chat.whatsapp.com/HgmmIQtTqauBXwoRVW1zH3) to stay updated and engage with fellow learners.
-- 💬 Join our Discord server — ask questions, get support, and connect with the community.
-- 📧 Join our mailing list to hear about upcoming workshops, events, and special sessions.
-- 🔗 Follow us on LinkedIn for course updates, career tips, and industry insights.
+- 💬 Join our [Discord server](https://discord.gg/vWGq7NY8) — ask questions, get support, and connect with the community.
+- 📧 Join our [mailing list][https://share.hsforms.com/2JijtUYFETJuh2aLxywsGxgssep9] to hear about upcoming workshops, events, and special sessions.
+- 🔗 Follow us on [LinkedIn](https://www.linkedin.com/company/the-java-bootcamp/) for course updates, career tips, and industry insights.
   
-
 ### Introduction
 
 Java is one of the most popular programming languages globally, known for its "Write Once, Run Anywhere" capability,
