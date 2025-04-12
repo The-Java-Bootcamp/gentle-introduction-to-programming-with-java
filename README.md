@@ -8,6 +8,13 @@
 - Develop a simple program in Java, reinforcing syntax and logic skills.
 - Gain confidence to explore more advanced topics within Java development.
 
+### Stay Connected and Keep Learning!
+- 📱 Join our (WhatsApp group)[https://chat.whatsapp.com/HgmmIQtTqauBXwoRVW1zH3] to stay updated and engage with fellow learners.
+- 💬 Join our Discord server — ask questions, get support, and connect with the community.
+- 📧 Join our mailing list to hear about upcoming workshops, events, and special sessions.
+- 🔗 Follow us on LinkedIn for course updates, career tips, and industry insights.
+  
+
 ### Introduction
 
 Java is one of the most popular programming languages globally, known for its "Write Once, Run Anywhere" capability,
